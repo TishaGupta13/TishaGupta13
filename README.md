@@ -1,4 +1,4 @@
-##👋 Hi, I’m Tisha Gupta
+## 👋 Hi, I’m Tisha Gupta
 
 - 👀 I use data to create solutions for businesses and organizations
 - 🌱 I'm a Data Analyst
